@@ -1,0 +1,15 @@
+This is the Maple codes for the GCD algorithm in the paper
+ Title: Bit Complexity of Polynomial GCDs on Sparse Representation
+ Authors: Qiao-Long Huang and Xiao-Shan Gao
+
+1£ºcodes-gcd.mw: This file contains the GCD codes.
+
+2£ºcodes-test.txt: This file contains codes to generate the test times in Figure 3, Figure 4, Figure 5.
+
+3£ºcodes-figure T.ms: This file contains codes to generate Figure 3.
+
+4£ºcodes-figure n.ms: This file contains codes to generate Figure 4.
+
+5£ºcodes-figure d-global.ms: This file contains codes to generate Figure 5.
+
+6£ºcodes-figure d-local.ms: This file contains codes to generate Figure 5.
